@@ -1,0 +1,7 @@
+node_modules
+package-lock.json
+.DS_Store
+src/**/__snapshots__/
+public/dist
+.env.test
+.env.development
